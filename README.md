@@ -1,5 +1,5 @@
 # Finite-State-Automata
-A finite state automata which does the following:
+A finite state automata which does the followings:
 * Reads adjacency matrix and generates the graph with elements indicating the label of edges
 * Detects cycles and removes them
 * Determines whether given strings are accepted by the automata
